@@ -58,7 +58,7 @@ The transformative capabilities of LLMs demand rigorous approaches to confidence
 Confidence reflects the likelihood the model's output correctly answers the input query. For tokens $y_t$ in sequence $y_{1:T}$ conditioned on input $x$:
 
 $$
-P(y_{1:T}|x) = \prod_{t=1}^T P(y_t|y_{<t},x)
+P(y_{1:T} \mid x) = \prod_{t=1}^T P(y_t \mid y_{<t}, x)
 $$
 
 LLM uncertainty comprises:
