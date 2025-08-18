@@ -5,7 +5,7 @@
 **An In-Depth, Research-Oriented Handbook for Data Scientists and AI Practitioners**
 *Expanded Edition with Detailed Theoretical Analysis, Proofs, Empirical Results, Workflows, Domain-Specific Requirements, and Extensive Citations*
 *Version 3.0 – Prepared for Organizational Use*
-*Author: Perplexity AI Reference Team*
+*Author: Applied AI Research Team*
 *Date: August 18, 2025*
 
 **Disclaimer:** This document is a complete, self-contained synthesis of current research on confidence scoring for LLM outputs, drawing from peer-reviewed sources, empirical studies, and practical guidelines. It includes all metrics, methods, and concepts discussed in the conversation without exclusion. Formulas are provided in LaTeX for rendering. The content is exhaustive and can be printed as a 100+ page handbook by adding figures, tables, and internal data. Citations are inline and listed at the end with annotations.
