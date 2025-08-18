@@ -59,8 +59,9 @@ Confidence reflects the likelihood the model's output correctly answers the inpu
 
 
 $$
-P(y_{1:T} \mid x) = prod_{t=1}^{T} P(y_t \mid y_{<t}, x)
+P(y_{1:T} \mid x) = \prod_{t=1}^{T} P(y_t \mid y_{<t}, x)
 $$
+
 
 
 LLM uncertainty comprises:
